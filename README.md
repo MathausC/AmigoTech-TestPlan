@@ -43,20 +43,6 @@ Testes funcionais
 3. Click no icone do carrinho
 4. Verifique que o item selecionado está presente no carrinho
 
-### Verificar que ao remover um item do carrinho o mesmo não deve estar presente no carrinho
-
-**Prerequisitos do teste:**
-
-* Usuário já está logado no sistema
-
-**Passos dos testes:**
-
-1. Click no botão de adicionar um item ao carrinho
-2. Click no botão para remover o mesmo item do carrinho
-3. Verifique que o não há nenhum número no icone do carrinho
-4. Click no icone do carrinho
-5. Verifique que o item selecionado não está presente no carrinho
-
 ### Verificar que a quantidade de itens adicionados é correspondente no carrinho
 
 **Prerequisitos do teste:**
@@ -76,7 +62,7 @@ Testes funcionais
 **Prerequisitos do teste:**
 
 * Usuário já está logado no sistema
-f
+
 **Passos dos testes:**
 
 1. Click no botão de adicionar um item ao carrinho.
