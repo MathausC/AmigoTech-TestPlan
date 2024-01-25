@@ -38,9 +38,10 @@ Testes funcionais
 
 **Passos dos testes:**
 
-1. Click no botão de adicionar um item ao carrinho.
-2. Vá até o carrinho
-3. Verifique que o item selecionado está presente no carrinho.
+1. Click no botão de adicionar um item ao carrinho
+2. Verifique que o número 1 no icone do carrinho
+3. Click no icone do carrinho
+4. Verifique que o item selecionado está presente no carrinho
 
 ### Verificar que ao remover um item do carrinho o mesmo não deve estar presente no carrinho
 
@@ -50,9 +51,11 @@ Testes funcionais
 
 **Passos dos testes:**
 
-1. Click no botão de adicionar um item ao carrinho.
-2. Click no botão para remover o mesmo item do carrinho.
-3. Verifique que o item selecionado não está presente no carrinho.
+1. Click no botão de adicionar um item ao carrinho
+2. Click no botão para remover o mesmo item do carrinho
+3. Verifique que o não há nenhum número no icone do carrinho
+4. Click no icone do carrinho
+5. Verifique que o item selecionado não está presente no carrinho
 
 ### Verificar que a quantidade de itens adicionados é correspondente no carrinho
 
@@ -62,23 +65,26 @@ Testes funcionais
 
 **Passos dos testes:**
 
-1. Click no botão de adicionar um item ao carrinho.
-2. Click no botão de adicionar um item diferente ao carrinho.
-3. Vá até o carrinho.
-4. Verifique que ambos os item selecionado estão presentes no carrinho.
+1. Click no botão de adicionar um item ao carrinho
+2. Click no botão de adicionar um item diferente ao carrinho
+3. Verifique que o número 2 apareceu no icone do carrinho
+4. Click no icone do carrinho
+5. Verifique que ambos os item selecionado estão presentes no carrinho
 
 ### Verificar que a remoção de um item ao carrinho só afeta o item removido
 
 **Prerequisitos do teste:**
 
 * Usuário já está logado no sistema
-
+f
 **Passos dos testes:**
 
 1. Click no botão de adicionar um item ao carrinho.
 2. Click no botão de adicionar um item diferente ao carrinho.
 3. Click no botão de remover o primeiro item selecionado anteriormenete.
-4. Verifique somente o segundo item selecinado está presente no carrinho.
+4. Verifique que o número 1 apareceu no icone do carrinho
+5. Click no icone do carrinho
+6. Verifique somente o segundo item selecinado está presente no carrinho.
 
 ## Cronograma
 
