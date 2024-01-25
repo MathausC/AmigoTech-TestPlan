@@ -102,7 +102,6 @@ Testes funcionais
 * Pesquisa de itens não foi verificada
 * Compras de itens não foi verificada
 
-## Documentação dos fluxos
+## Critérios de saida
 
-* Jira
-* Plano de testes
+Alcanse de 100% de aceitação dos testes cobertos.
